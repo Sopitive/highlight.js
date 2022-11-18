@@ -5,6 +5,7 @@ New Grammars:
 - added 3rd party LookML grammar to SUPPORTED_LANGUAGES [Josh Temple][]
 - added 3rd party FunC grammar to SUPPORTED_LANGUAGES [Nikita Sobolev][]
 - Added 3rd party Flix grammar to SUPPORTED_LANGUAGES [The Flix Organisation][]
+- Added 3rd party rvt-script grammar to SUPPORTED_LANGUAGES [Sopitive]
 
 Grammars:
 - enh(scheme) add `scm` alias for Scheme [matyklug18][]
@@ -81,6 +82,7 @@ Grammars:
 [Mousetail]: https://github.com/mousetail
 [Gabriel Gonçalves]: https://github.com/KTSnowy
 [Nikita Sobolev]: https://github.com/sobolevn
+[Sopitive]: https://github.com/Sopitive
 
 ## Version 11.5.0
 
